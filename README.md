@@ -13,8 +13,7 @@ This is a simple NFT preview card component built using HTML and CSS. The card d
 - Font Awesome Icons
 
 ## 📸 Preview:
-![Preview Image] *![image](https://github.com/user-attachments/assets/226b9d74-7ac3-46cb-9c3a-473a19fead10)
-*
+ *![image](https://github.com/user-attachments/assets/226b9d74-7ac3-46cb-9c3a-473a19fead10)*
 
 ## Author:
 - Shafqat Ara
